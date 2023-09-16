@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @meenamk
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m an RPA developer
+- 🌱 I’m currently learning Blockchain development
+- 💞️ 
+- 📫 Contact me via email : meenamuthukrishnan23@gmail.com
 
 <!---
 meenamk/meenamk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
