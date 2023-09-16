@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meenamk
+- 👋 Hi, I’m Meena Muthukrishnan
 - 👀 I’m an RPA developer
 - 🌱 I’m currently learning Blockchain development
 - 💞️ 
